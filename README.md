@@ -1,6 +1,7 @@
 # chickierun
 
 Endless running game
+- built using PyGame
 
 <img width="800" height="430" alt="Screenshot 2026-03-08 at 12 12 32 PM" src="https://github.com/user-attachments/assets/db9921cf-3eff-43c0-8807-0ff233ad671c" />
 
